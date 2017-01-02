@@ -8,6 +8,7 @@
     * [读书八字诀](读书八字诀.md)
     * [小黄鸭](小黄鸭.md)
     * [学习地图](学习地图.md)
+    * [我看书？还是书看我？](知识爆炸怎么办？.md)
 
 ## Methods
 * [Defining Methods](methods.md)
