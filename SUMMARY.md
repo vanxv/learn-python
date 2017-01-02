@@ -10,6 +10,11 @@
     * [学习地图](学习地图.md)
     * [我看书？还是书看我？](知识爆炸怎么办？.md)
 
+## W1
+* [python101 5+2](python101-52个练习.md)
+* [python2 and 3 different](python2-and-3-different.md)
+* [Github-Gitfork](github-gitfork.md)
+
 ## Methods
 * [Defining Methods](methods.md)
 
