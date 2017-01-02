@@ -4,10 +4,11 @@ python3 print需\(\)
 
 
 
-
-
 python3：`input()`.取消了`raw_input()`
 
-python2：2个都在用。  
+python2：2个都在用。
+
+
+
 
 

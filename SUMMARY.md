@@ -14,6 +14,7 @@
 * [python101 5+2](python101-52个练习.md)
 * [python2 and 3 different](python2-and-3-different.md)
 * [Github-Gitfork](github-gitfork.md)
+* [英文翻译杂谈](英文翻译杂谈.md)
 
 ## Methods
 * [Defining Methods](methods.md)
